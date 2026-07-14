@@ -1,0 +1,27 @@
+.image {
+  display: flex;
+  justify-content: center; /* horizontal */
+  align-items: center; /* vertical */
+  padding-top: 30px;
+  margin-left: -10px;
+  margin-right: 10px;
+}
+
+.Tech-Stack,
+.About,
+.Socials,
+.Achievement {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.header {
+  white-space: pre-line;
+  text-align: center;
+  border: 2px solid;
+
+  padding-bottom: 20px;
+  margin-left: 100px;
+  margin-right: 100px;
+  border-radius: 50px;
+}
